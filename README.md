@@ -1,3 +1,4 @@
-Using Selenium, I have scrapped data of all licensed Biomedical Engineers of Nepal, till date 25th June 2024.
-Includes: Name of the engineer, their registration number and their univeristy name, location. 
-The data are divided into 2 groups, the one of individuals who got their license before 2020 and after 2020.
+- Using Selenium, I have scrapped data of all licensed Biomedical Engineers of Nepal, till date 25th June 2024.
+- Includes: Name, Gender, Passout Year, Category, Qualification, University name and location, address of engineers.
+- The data are divided into 2 groups, the one of individuals who got their license before 2020 and after 2020.
+- This is a raw file with very less cleaning done. 
